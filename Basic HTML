@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <div>
+     <h1>heading 1 </h1>
+    <h2>heading 2</h2>
+    <h3>heading 3</h3>
+    <h4>heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+    <p>this is a a para</p>
+     <button>Click Me</button>
+     <br><br>
+    <a href="https://codegnan.com/">Code Gnan</a>
+     <br><br>
+     <img src="images.png" alt="this is an image of code Gnan">
+     <hr>
+     <div>division : div is block level element adding new line and 100% width</div>
+     <span>span: span is a inline element conent background apaces only</span><br> <br>
+     <heading>header semantic elements</heading>
+     <section>body semantic elements</section>
+     <footer>footer semantic element</footer>
+
+
+</div>
+</body>
+</html>
